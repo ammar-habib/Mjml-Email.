@@ -35,10 +35,10 @@
             </mj-section>
             <mj-section>
                 <mj-column width="100%">
-                    <mj-text padding="0 10px 15px" font-size="17px" font-weight="bold" color="#000"><span
+                    <mj-text padding="0 10px 15px" font-size="17px" font-weight="600" color="#000"><span
                             style="padding-right:5px">ORDER N.</span><span style="font-weight: 500">99999</span>
                     </mj-text>
-                    <mj-text padding="0 10px 15px" font-size="17px" font-weight="bold" color="#000"
+                    <mj-text padding="0 10px 15px" font-size="17px" font-weight="600" color="#000"
                              text-transform="uppercase">ORDER SUMMARY
                     </mj-text>
                 </mj-column>
@@ -53,15 +53,15 @@
                             <th style="padding: 0 0 6px 4px;min-width: 65px; text-align:center;">Subtotal</th>
                         </tr>
                         <tr style="font-size: 16px;">
-                            <td style="padding: 4px 4px 6px 0; vertical-align: top;"><b>29292 NAME-1</b></td>
-                            <td style="padding: 4px 4px 6px; vertical-align: top;"><b>Black</b><br/><em>1 in stock 2 will be available to ship 6/14-7/31</em>
+                            <td style="padding: 4px 4px 6px 0; vertical-align: top;font-weight:600;">29292 NAME-1</td>
+                            <td style="padding: 4px 4px 6px; vertical-align: top;font-weight:600;">Black<br/><em style="font-weight: 400;">1 in stock 2 will be available to ship 6/14-7/31</em>
                             </td>
-                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>3</b></td>
-                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>12</b></td>
-                            <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;"><b>$<span>10.40</span></b>
+                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">3</td>
+                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">12</td>
+                            <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">$<span>10.40</span>
                             </td>
-                            <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;">
-                                <b>$<span>10.40</span></b></td>
+                            <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;font-weight:600;">
+                                $<span>10.40</span></td>
                         </tr>
                         <tr style="font-size: 16px;">
                             <td style="padding: 4px 4px 6px 0; vertical-align: top;">
@@ -70,38 +70,38 @@
                                          src="https://dks.scene7.com/is/image/dkscdn/19NIKMDWNSHFTR9RDRNN_Black_White_is?wid=685&fmt=jpg"/>
                                 </div>
                             </td>
-                            <td style="padding: 4px 4px 6px; vertical-align: top;"><b>Black</b><br/>
-                                <em>2 in stock</em>
+                            <td style="padding: 4px 4px 6px; vertical-align: top;font-weight:600;">Black<br/>
+                                <em style="font-weight: 400;">2 in stock</em>
                             </td>
-                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>3</b></td>
-                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>12</b></td>
-                            <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;"><b>$<span>10.40</span></b>
+                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">3</td>
+                            <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">12</td>
+                            <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">$<span>10.40</span>
                             </td>
-                            <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;">
-                                <b>$<span>10.40</span></b></td>
+                            <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;font-weight:600;">
+                                $<span>10.40</span></td>
                         </tr>
                     </mj-table>
                 </mj-column>
                 <mj-column width="100%">
                     <mj-text padding="0 10px 5px" font-size="16px" font-weight="400" color="#000"><span style="width: 155px;display: inline-block;">Shipping & Handling:</span>$<span>10,40</span></mj-text>
                     <mj-text padding="0 10px 5px" font-size="16px" font-weight="400" color="#000"><span style="width: 155px;display: inline-block;">Tax:</span>N/A</mj-text>
-                    <mj-text padding="0 10px 5px" font-size="16px" font-weight="bold" color="#000"><span style="width: 155px;display: inline-block;">Total:</span>$<span>624,40</span></mj-text>
+                    <mj-text padding="0 10px 5px" font-size="16px" font-weight="600" color="#000"><span style="width: 155px;display: inline-block;">Total:</span>$<span>624,40</span></mj-text>
                     <mj-divider border-width="3px" border-color="#000" padding="30px 10px 0px"></mj-divider>
                 </mj-column>
             </mj-section>
             <mj-section>
                 <mj-column padding-bottom="30px" width="50%">
-                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="bold" color="#000"
+                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="600" color="#000"
                              text-transform="uppercase">BILLING ADDRESS
                     </mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">Full name</mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">Company name</mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">Street</mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">City, ZIP</mj-text>
-                    <mj-text padding="0 10px 5px" font-size="17px" font-weight="500" color="#000">Country,</mj-text>
+                    <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">Country,</mj-text>
                 </mj-column>
                 <mj-column padding-bottom="30px" width="50%">
-                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="bold" color="#000"
+                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="600" color="#000"
                              text-transform="uppercase">SHIPPING ADDRESS
                     </mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">Full name</mj-text>
@@ -111,13 +111,13 @@
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">Country,</mj-text>
                 </mj-column>
                 <mj-column padding-bottom="30px" width="100%">
-                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="bold" color="#000"
+                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="600" color="#000"
                              text-transform="uppercase">PAYMENT METHOD
                     </mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">PayPal</mj-text>
                 </mj-column>
                 <mj-column width="100%">
-                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="bold" color="#000"
+                    <mj-text padding="0 10px 4px" font-size="17px" font-weight="600" color="#000"
                              text-transform="uppercase">SHIPPING INSTRUCTIONS
                     </mj-text>
                     <mj-text padding="0 10px 5px" font-size="17px" font-weight="400" color="#000">None</mj-text>

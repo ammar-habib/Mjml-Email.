@@ -277,12 +277,12 @@
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
                             <tr>
                               <td align="left" style="font-size:0px;padding:0 10px 15px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:1;text-align:left;color:#000000;"><span style="padding-right:5px">ORDER N.</span><span style="font-weight: 500">99999</span></div>
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;line-height:1;text-align:left;color:#000000;"><span style="padding-right:5px">ORDER N.</span><span style="font-weight: 500">99999</span></div>
                               </td>
                             </tr>
                             <tr>
                               <td align="left" style="font-size:0px;padding:0 10px 15px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">ORDER SUMMARY</div>
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">ORDER SUMMARY</div>
                               </td>
                             </tr>
                           </table>
@@ -308,15 +308,14 @@
                                     <th style="padding: 0 0 6px 4px;min-width: 65px; text-align:center;">Subtotal</th>
                                   </tr>
                                   <tr style="font-size: 16px;">
-                                    <td style="padding: 4px 4px 6px 0; vertical-align: top;"><b>29292 NAME-1</b></td>
-                                    <td style="padding: 4px 4px 6px; vertical-align: top;"><b>Black</b><br /><em>1 in stock 2 will be available to ship 6/14-7/31</em>
+                                    <td style="padding: 4px 4px 6px 0; vertical-align: top;font-weight:600;">29292 NAME-1</td>
+                                    <td style="padding: 4px 4px 6px; vertical-align: top;font-weight:600;">Black<br /><em style="font-weight: 400;">1 in stock 2 will be available to ship 6/14-7/31</em>
                                     </td>
-                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>3</b></td>
-                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>12</b></td>
-                                    <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;"><b>$<span>10.40</span></b>
+                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">3</td>
+                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">12</td>
+                                    <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">$<span>10.40</span>
                                     </td>
-                                    <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;">
-                                      <b>$<span>10.40</span></b></td>
+                                    <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;font-weight:600;"> $<span>10.40</span></td>
                                   </tr>
                                   <tr style="font-size: 16px;">
                                     <td style="padding: 4px 4px 6px 0; vertical-align: top;">
@@ -324,15 +323,14 @@
                                         <img style="position: absolute;max-width: 100%;max-height: 100%;left: 0;right: 0;top: 0;bottom: 0;" src="https://dks.scene7.com/is/image/dkscdn/19NIKMDWNSHFTR9RDRNN_Black_White_is?wid=685&fmt=jpg" />
                                       </div>
                                     </td>
-                                    <td style="padding: 4px 4px 6px; vertical-align: top;"><b>Black</b><br />
-                                      <em>2 in stock</em>
+                                    <td style="padding: 4px 4px 6px; vertical-align: top;font-weight:600;">Black<br />
+                                      <em style="font-weight: 400;">2 in stock</em>
                                     </td>
-                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>3</b></td>
-                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;"><b>12</b></td>
-                                    <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;"><b>$<span>10.40</span></b>
+                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">3</td>
+                                    <td style="padding: 4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">12</td>
+                                    <td style="padding:4px 4px 6px; text-align:center; vertical-align: top;font-weight:600;">$<span>10.40</span>
                                     </td>
-                                    <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;">
-                                      <b>$<span>10.40</span></b></td>
+                                    <td style="padding: 4px 0 6px 4px; text-align:center; vertical-align: top;font-weight:600;"> $<span>10.40</span></td>
                                   </tr>
                                 </table>
                               </td>
@@ -360,7 +358,7 @@
                             </tr>
                             <tr>
                               <td align="left" style="font-size:0px;padding:0 10px 5px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;font-weight:bold;line-height:1;text-align:left;color:#000000;"><span style="width: 155px;display: inline-block;">Total:</span>$<span>624,40</span></div>
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;font-weight:600;line-height:1;text-align:left;color:#000000;"><span style="width: 155px;display: inline-block;">Total:</span>$<span>624,40</span></div>
                               </td>
                             </tr>
                             <tr>
@@ -435,7 +433,7 @@
                                   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                     <tr>
                                       <td align="left" style="font-size:0px;padding:0 10px 4px;word-break:break-word;">
-                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">BILLING ADDRESS</div>
+                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">BILLING ADDRESS</div>
                                       </td>
                                     </tr>
                                     <tr>
@@ -460,7 +458,7 @@
                                     </tr>
                                     <tr>
                                       <td align="left" style="font-size:0px;padding:0 10px 5px;word-break:break-word;">
-                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:500;line-height:1;text-align:left;color:#000000;">Country,</div>
+                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:400;line-height:1;text-align:left;color:#000000;">Country,</div>
                                       </td>
                                     </tr>
                                   </table>
@@ -484,7 +482,7 @@
                                   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                     <tr>
                                       <td align="left" style="font-size:0px;padding:0 10px 4px;word-break:break-word;">
-                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">SHIPPING ADDRESS</div>
+                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">SHIPPING ADDRESS</div>
                                       </td>
                                     </tr>
                                     <tr>
@@ -533,7 +531,7 @@
                                   <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
                                     <tr>
                                       <td align="left" style="font-size:0px;padding:0 10px 4px;word-break:break-word;">
-                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">PAYMENT METHOD</div>
+                                        <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">PAYMENT METHOD</div>
                                       </td>
                                     </tr>
                                     <tr>
@@ -558,7 +556,7 @@
                           <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
                             <tr>
                               <td align="left" style="font-size:0px;padding:0 10px 4px;word-break:break-word;">
-                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">SHIPPING INSTRUCTIONS</div>
+                                <div style="font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:17px;font-weight:600;line-height:1;text-align:left;text-transform:uppercase;color:#000000;">SHIPPING INSTRUCTIONS</div>
                               </td>
                             </tr>
                             <tr>
