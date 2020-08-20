@@ -175,7 +175,7 @@
             </mj-section>
             <mj-section padding-top="0" padding-bottom="0">
                 <mj-column vertical-align="middle">
-                    <mj-social mode="horizontal" vertical-align="middle">
+                    <mj-social mode="horizontal" vertical-align="middle" padding="10px">
                         <mj-social-element icon-size="36px" target="_blank" href="#" src="https://editor.liramail.com/images/social/sms1/facebook.png">
                         </mj-social-element>
                         <mj-social-element icon-size="36px" target="_blank" src="https://editor.liramail.com/images/social/sms1/twitter.png" href="#">
@@ -191,7 +191,7 @@
                     </mj-social>
                 </mj-column>
                 <mj-column vertical-align="middle">
-                    <mj-social mode="horizontal">
+                    <mj-social mode="horizontal" padding="10px">
                         <mj-social-element   icon-size="110px" target="_blank" src="https://editor.liramail.com/images/feshto/feshto_pur/app-grey-apple-store.png" href="#">
                         </mj-social-element>
                         <mj-social-element  icon-size="110px" target="_blank" src="https://editor.liramail.com/images/feshto/feshto_pur/app-grey-google-play.png" href="#">
