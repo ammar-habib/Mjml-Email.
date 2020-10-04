@@ -117,13 +117,14 @@
       word-break: break-word;
     }
 
-    td[align="right"],
-    td[align="left"] {
-      text-align: center;
-      text-align: -webkit-center;
-    }
-
     @media only screen and (max-width:480px) {
+
+      td[align="right"],
+      td[align="left"] {
+        text-align: center;
+        text-align: -webkit-center;
+      }
+
       .xs-hide {
         display: none !important;
       }
