@@ -22,12 +22,11 @@
             min-width: 40px;
             word-break: break-word;
             }
+            @media only screen and (max-width:480px){
             td[align="right"], td[align="left"] {
             text-align: center;
             text-align: -webkit-center;
             }
-
-            @media only screen and (max-width:480px){
             .xs-hide{
             display:none !important;
             }
